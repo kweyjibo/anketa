@@ -53,4 +53,6 @@ $( document ).ready(function() {
 		$(this).remove();
 		return false;
 	})
+
+	alert(1);
 });
