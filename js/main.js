@@ -53,4 +53,5 @@ $( document ).ready(function() {
 		$(this).remove();
 		return false;
 	})
+
 });
